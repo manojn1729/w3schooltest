@@ -1,3 +1,7 @@
 hi
 hello
+<<<<<<< HEAD
 fix
+manoj
+adding_x_y
+>>>>>>> add_x
